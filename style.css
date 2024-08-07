@@ -1,11 +1,12 @@
 *{
    margin: 0;
    padding: 0;
-   box-sizing: border-box; 
+   box-sizing: border-box;
 }
 
 p{
     color:rgb(46, 34, 179);
     font-size: large;
     text-align: center;
+    border-radius: 2px solid black;
 }
